@@ -21,7 +21,7 @@ Data for this analysis comes from the [UCDP Database](https://ucdp.uu.se/downloa
 - [Girls/Boys School Enrollment](https://github.com/mehurlock94/identifying-factors-contributing-to-armed-conflict/blob/main/Percent_school_enrollment.csv)
 - [Military Expenditure (GDP)](https://github.com/mehurlock94/identifying-factors-contributing-to-armed-conflict/blob/main/Military_expenditure_GDP.csv)
 - [Military Expenditure (per Capita)](https://github.com/mehurlock94/identifying-factors-contributing-to-armed-conflict/blob/main/Military_expenditure_capita.csv)
-* The SIPRI dataset was too large to upload to GitHub
+- The SIPRI dataset was too large to upload to GitHub
 
 Processed datasets are as follows:
 - [Conflict Deaths](https://github.com/mehurlock94/identifying-factors-contributing-to-armed-conflict/blob/main/conflict_deaths.csv)
